@@ -1,4 +1,4 @@
-# DIXON
+# D.I.X.O.N: Digital Intelligence Xterminating Online Nemeses
 
 One paragraph of project description goes here. Things to include:
 - What is the primary functionality of this project?
